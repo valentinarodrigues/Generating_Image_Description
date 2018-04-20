@@ -1,0 +1,55 @@
+Actual:     child swings on his stomach on tire swing amidst trees 
+Predicted:  man is the and and and and and and and and and and and and and and and and and and and and and and and and and
+2449518585_113dc4a8e5
+Actual:     girl swings on nice day 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+2088910854_c6f8d4f5f9
+Actual:     large man is wearing headband with mistletoe attached to it 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+2387197355_237f6f41ee
+Actual:     group of people are partying at masquerade party 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+1808007704_ee8a93abb4
+Actual:     man in red shirt is jumping from one rock to another larger rocker with two male spotters below him 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+
+Warning (from warnings module):
+  File "C:\Program Files\Python35\lib\site-packages\nltk\translate\bleu_score.py", line 490
+    warnings.warn(_msg)
+UserWarning: 
+Corpus/Sentence contains 0 counts of 3-gram overlaps.
+BLEU scores might be undesirable; use SmoothingFunction().
+BLEU-1: 0.021429
+BLEU-2: 0.012599
+BLEU-3: 0.072477
+BLEU-4: 0.112244
+265223843_9ef21e1872
+Actual:     man is riding powered paraglider in the air at sunset 
+Predicted:  man is the and and and and and and and and and and and and and and and and and and and and and and and and and
+268654674_d29e00b3d0
+Actual:     family crossing bridge 
+Predicted:  man is and and and and and and and and and and and and and and and and and and and and and and and and and and
+2782850287_1408f7ec43
+Actual:     girl and boy wearing swimming goggles have their arms around each other 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+2596475173_58f11fc583
+Actual:     tan dog and black dog are biting each other in the face 
+Predicted:  dog is the the the the the the the the the the the the the the the the the the the the the the the the the the
+2672588619_3849930e99
+Actual:     three children run by the water 
+Predicted:  man in and and and and and and and and and and and and and and and and and and and and and and and and and and
+BLEU-1: 0.042857
+BLEU-2: 0.017817
+BLEU-3: 0.089229
+BLEU-4: 0.133482
+Saved model to disk
+>1: train=0.112244 test=0.133482
+          train      test
+count  1.000000  1.000000
+mean   0.112244  0.133482
+std         NaN       NaN
+min    0.112244  0.133482
+25%    0.112244  0.133482
+50%    0.112244  0.133482
+75%    0.112244  0.133482
+max    0.112244  0.133482

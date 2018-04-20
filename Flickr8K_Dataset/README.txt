@@ -1,0 +1,1 @@
+This folder consists of all the images in Flickr 8k Dataset around 8092 images. It can be downloaded from https://forms.illinois.edu/sec/1713398. 
