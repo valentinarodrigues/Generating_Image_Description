@@ -1,5 +1,4 @@
 from os import listdir
-from keras.models import load_model
 from numpy import array
 from numpy import argmax
 from numpy import savetxt
